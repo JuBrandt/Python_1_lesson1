@@ -23,7 +23,7 @@ while (i > 50 and i < 120) and age < 30:
     break
 if (i < 50 or i > 120) and age > 40:
     print("Вам следует обратится к врачу!")
-if (i < 50 or i > 120) and (age > 30 or age < 40):
+if (i < 50 or i > 120) and (age > 30 or age < 39):
     print("Вам следует вести правильный образ жизни")
 else:
     print("Вы в хорошем состоянии")
